@@ -1,0 +1,3 @@
+# requirements.txt for Telegram AI/VPN Bot
+aiogram>=3.0.0
+aiohttp
